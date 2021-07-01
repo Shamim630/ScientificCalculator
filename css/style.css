@@ -2,8 +2,24 @@
     margin: 0;
     padding: 0;
 }
+p{
+    color:white;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+span{
+    color:rgb(227, 230, 38)
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
 body{
-    background-image: linear-gradient(to bottom, #33eeff 0%,#ff99cc 100%);
+    /* background-image: url(../img/wallpaper\ \(2\).jpg); */
+    background-color: #544848;
     /* opacity: 0.4; */
 }
 .container{
